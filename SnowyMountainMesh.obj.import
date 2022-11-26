@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/SnowyMountainMesh.obj-57d39df2caabd88aca15bc00fce58f47.mesh"
+
+[deps]
+
+files=[ "res://.import/SnowyMountainMesh.obj-57d39df2caabd88aca15bc00fce58f47.mesh" ]
+
+source_file="res://SnowyMountainMesh.obj"
+dest_files=[ "res://.import/SnowyMountainMesh.obj-57d39df2caabd88aca15bc00fce58f47.mesh", "res://.import/SnowyMountainMesh.obj-57d39df2caabd88aca15bc00fce58f47.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/missile_air_to_ground.obj-452f1c12f5714d55ef73c5ed1f9298c5.mesh"
+
+[deps]
+
+files=[ "res://.import/missile_air_to_ground.obj-452f1c12f5714d55ef73c5ed1f9298c5.mesh" ]
+
+source_file="res://missile_air_to_ground.obj"
+dest_files=[ "res://.import/missile_air_to_ground.obj-452f1c12f5714d55ef73c5ed1f9298c5.mesh", "res://.import/missile_air_to_ground.obj-452f1c12f5714d55ef73c5ed1f9298c5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

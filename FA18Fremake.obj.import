@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/FA18Fremake.obj-d76414e99c4a0c9360058a78ac510ffc.mesh"
+
+[deps]
+
+files=[ "res://.import/FA18Fremake.obj-d76414e99c4a0c9360058a78ac510ffc.mesh" ]
+
+source_file="res://FA18Fremake.obj"
+dest_files=[ "res://.import/FA18Fremake.obj-d76414e99c4a0c9360058a78ac510ffc.mesh", "res://.import/FA18Fremake.obj-d76414e99c4a0c9360058a78ac510ffc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

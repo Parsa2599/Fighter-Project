@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Runway.obj-153be6f050a8c1024b18c9d0cfd24a09.mesh"
+
+[deps]
+
+files=[ "res://.import/Runway.obj-153be6f050a8c1024b18c9d0cfd24a09.mesh" ]
+
+source_file="res://Runway.obj"
+dest_files=[ "res://.import/Runway.obj-153be6f050a8c1024b18c9d0cfd24a09.mesh", "res://.import/Runway.obj-153be6f050a8c1024b18c9d0cfd24a09.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
